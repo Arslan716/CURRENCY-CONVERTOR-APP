@@ -4,10 +4,13 @@ An Currency Convertor Application whose main focus on JavaScript (With API Integ
 
 ---
 
-## Key Features
+## 🌟  Key Features:
 
--**DOM Manipulation**
--**API Integration**
--**Event Handling**
--**Loops & String Methods**
-**And More..**
+- **DOM Manipulation**
+- **API Integration**
+- **Event Handling**
+- **Loops & String Methods** & more..
+
+## ⚔️  Tech Stack: 
+
+- **JavaScript:** fetching API, Event Listeners, DOM Manipulation, loops & strings methods, functions.
